@@ -4,6 +4,7 @@ click==7.1.2
 cycler==0.10.0
 DateTime==4.3
 Flask
+gunicorn
 idna==2.10
 imutils
 itsdangerous==1.1.0
